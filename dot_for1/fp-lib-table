@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "dot_for1_lib")(type "KiCad")(uri "${KIPRJMOD}/dot_for1_lib.pretty")(options "")(descr ""))
-)
